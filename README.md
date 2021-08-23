@@ -1,4 +1,8 @@
-Algorithms used for operations with graphs
+Algorithms in Javascript
 
+Graph:
 - Breadth-first search
 - Depth-first search
+
+Sorting:
+Insertion sort
